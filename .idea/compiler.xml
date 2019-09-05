@@ -6,11 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="een" />
         <module name="YXFMallbootparent" />
+        <module name="cuu" />
         <module name="test" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="cuu" target="1.5" />
+      <module name="een" target="1.5" />
       <module name="test" target="1.5" />
       <module name="YXFMallbootparent" target="1.5" />
     </bytecodeTargetLevel>

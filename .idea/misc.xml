@@ -8,6 +8,8 @@
       <list>
         <option value="$PROJECT_DIR$/YXFMallbootparent/pom.xml" />
         <option value="$PROJECT_DIR$/test/pom.xml" />
+        <option value="$PROJECT_DIR$/cuu/pom.xml" />
+        <option value="$PROJECT_DIR$/een/pom.xml" />
       </list>
     </option>
   </component>
