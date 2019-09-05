@@ -1,22 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ba255a7-ddcc-46fa-9995-55063a2c97fe" name="Default Changelist" comment="" />
+    <list default="true" id="2ba255a7-ddcc-46fa-9995-55063a2c97fe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cuu/cuu.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/YXFMallbootparent/YXFMallbootparent.iml" beforeDir="false" afterPath="$PROJECT_DIR$/YXFMallbootparent/YXFMallbootparent.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cuu/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cuu/pom.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1QOxje9nwi3L8ZHVHJGSuHph5Vb" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -41,6 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1567655579719</updated>
       <workItem from="1567655581711" duration="2647000" />
+      <workItem from="1567666680038" duration="371000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1567655851794</created>
@@ -91,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567664832015</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="测试项目">
+      <created>1567666810945</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1567666810945</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

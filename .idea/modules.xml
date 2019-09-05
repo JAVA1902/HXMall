@@ -4,7 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/HXMall-boot.iml" filepath="$PROJECT_DIR$/.idea/HXMall-boot.iml" />
       <module fileurl="file://$PROJECT_DIR$/YXFMallbootparent/YXFMallbootparent.iml" filepath="$PROJECT_DIR$/YXFMallbootparent/YXFMallbootparent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cuu/cuu.iml" filepath="$PROJECT_DIR$/cuu/cuu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/een/een.iml" filepath="$PROJECT_DIR$/een/een.iml" />
       <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
     </modules>
   </component>
 </project>
